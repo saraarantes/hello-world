@@ -1,2 +1,6 @@
 # hello-world
-Learning how to use Git
+
+Oi!
+Meu nome é Sara. Fazendo umas bagunças aqui no Git pra ver como funciona.
+
+É isso aí, flw!
